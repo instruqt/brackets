@@ -49,7 +49,7 @@ define(function (require, exports, module) {
         FIND_MENU       : "find-menu",
         VIEW_MENU       : "view-menu",
         NAVIGATE_MENU   : "navigate-menu",
-        HELP_MENU       : "help-menu"
+        //HELP_MENU       : "help-menu"
     };
 
     /**
